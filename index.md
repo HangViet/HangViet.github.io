@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/HangViet/HangViet.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Chào mừng bạn đến với trang GitHub
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bạn có thể sử dụng [trình chỉnh sửa trên GitHub] (https://github.com/HangViet/HangViet.github.io/edit/master/index.md) để duy trì và xem trước nội dung cho trang web của bạn trong các tệp Markdown.
 
-### Markdown
+Bất cứ khi nào bạn cam kết với kho lưu trữ này, Trang GitHub sẽ chạy [Jekyll] (https://jekyllrb.com/) để xây dựng lại các trang trong trang web của bạn, từ nội dung trong tệp Markdown của bạn.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Đánh dấu
 
-```markdown
-Syntax highlighted code block
+Markdown là một cú pháp nhẹ và dễ sử dụng để tạo kiểu cho văn bản của bạn. Nó bao gồm các quy ước cho
 
-# Header 1
-## Header 2
-### Header 3
+`` `đánh dấu
+Cú pháp tô sáng khối mã
 
-- Bulleted
-- List
+# Tiêu đề 1
+## Tiêu đề 2
+### Tiêu đề 3
 
-1. Numbered
-2. List
+- Gạch đầu dòng
+- Danh sách
 
-**Bold** and _Italic_ and `Code` text
+1. Đã đánh số
+2. Danh sách
 
-[Link](url) and ![Image](src)
-```
+** Chữ đậm ** và văn bản _Italic_ và `Code`
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Liên kết] (url) và! [Hình ảnh] (src)
+`` `
 
-### Jekyll Themes
+Để biết thêm chi tiết, xem [Đánh dấu hương vị GitHub] (https://guides.github.com/features/mastering-markdown/).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HangViet/HangViet.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Chủ đề Jekyll
 
-### Support or Contact
+Trang web của bạn sẽ sử dụng bố cục và kiểu từ chủ đề Jekyll mà bạn đã chọn trong [cài đặt kho lưu trữ] (https://github.com/HangViet/HangViet.github.io/sinstall). Tên của chủ đề này được lưu trong tệp cấu hình Jekyll `_config.yml`.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Hỗ trợ hoặc Liên hệ
+
+Gặp sự cố với Trang? Hãy xem [tài liệu] của chúng tôi (https://help.github.com/c Chuyên / github-Pages-basics /) hoặc [hỗ trợ liên hệ] (https://github.com/contact) và chúng tôi sẽ giúp bạn sắp xếp nó ngoài.
